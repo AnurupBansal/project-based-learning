@@ -26,7 +26,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
-
+NICE
 ## C/C++:
 
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
